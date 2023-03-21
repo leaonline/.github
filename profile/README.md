@@ -1,6 +1,6 @@
 ## lea.online - literacy education for adults
 
-![lea.online logo, cc-by-nc University of Bremen](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/logo-persons-1110x624.png)
+![lea.online logo, cc-by-nc University of Bremen](https://github.com/leaonline/.github/tree/master/assets/images/logo-persons-1110x624.png)
 
 <!--
 
@@ -43,12 +43,13 @@ as well as a field with mixed content.
 </a>
 
 #### Screenshots
+<!-- https://github.com/leaonline/.github/tree/master/assets/images -->
 
 | 1                                                             | 2                                                             | 3                                                                 |
 |---------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|
-| ![screenshot app overview](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-overview.png) | ![screenshot app map](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-map.png)           | ![screenshot app dimensions](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-dimensions.png) |
-| ![screenshot app reading](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-reading.png)   | ![screenshot app writing](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-writing.png)   | ![screenshot app maths](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-maths.png)           |
-| ![screenshot app language](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-lang.png)     | ![screenshot app complete](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-complete.png) | ![screenshot app trophies](https://raw.githubusercontent.com/leaonline/.github/tree/master/assets/images/app-trophy.png)       |
+| ![screenshot app overview](https://github.com/leaonline/.github/tree/master/assets/images/app-overview.png) | ![screenshot app map](https://github.com/leaonline/.github/tree/master/assets/images/app-map.png)           | ![screenshot app dimensions](https://github.com/leaonline/.github/tree/master/assets/images/app-dimensions.png) |
+| ![screenshot app reading](https://github.com/leaonline/.github/tree/master/assets/images/app-reading.png)   | ![screenshot app writing](https://github.com/leaonline/.github/tree/master/assets/images/app-writing.png)   | ![screenshot app maths](https://github.com/leaonline/.github/tree/master/assets/images/app-maths.png)           |
+| ![screenshot app language](https://github.com/leaonline/.github/tree/master/assets/images/app-lang.png)     | ![screenshot app complete](https://github.com/leaonline/.github/tree/master/assets/images/app-complete.png) | ![screenshot app trophies](https://github.com/leaonline/.github/tree/master/assets/images/app-trophy.png)       |
 
 ### [otu.lea - web-based diagnostics app](https://github.com/leaonline/leaonline-otulea)
 
