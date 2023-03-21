@@ -1,6 +1,6 @@
 ## lea.online - literacy education for adults
 
-![lea.online logo, cc-by-nc University of Bremen](../assets/images/logo-persons-1110x624.png)
+![lea.online logo, cc-by-nc University of Bremen](https://github.com/leaonline/.github/tree/master/assets/images/logo-persons-1110x624.png)
 
 <!--
 
@@ -43,16 +43,13 @@ as well as a field with mixed content.
 </a>
 
 #### Screenshots
+<!-- https://github.com/leaonline/.github/tree/master/assets/images -->
 
-/home/jankapunkt/Desktop/complete.png
-/home/jankapunkt/Desktop/Dimensionen.png
-/home/jankapunkt/Desktop/erfolge.png
-/home/jankapunkt/Desktop/lesen.png
-/home/jankapunkt/Desktop/map.png
-/home/jankapunkt/Desktop/rechnen.png
-/home/jankapunkt/Desktop/schreiben.png
-/home/jankapunkt/Desktop/sprache.png
-/home/jankapunkt/Desktop/Übersicht.png
+| 1                                                             | 2                                                             | 3                                                                 |
+|---------------------------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------|
+| ![screenshot app overview](https://github.com/leaonline/.github/tree/master/assets/images/app-overview.png) | ![screenshot app map](https://github.com/leaonline/.github/tree/master/assets/images/app-map.png)           | ![screenshot app dimensions](https://github.com/leaonline/.github/tree/master/assets/images/app-dimensions.png) |
+| ![screenshot app reading](https://github.com/leaonline/.github/tree/master/assets/images/app-reading.png)   | ![screenshot app writing](https://github.com/leaonline/.github/tree/master/assets/images/app-writing.png)   | ![screenshot app maths](https://github.com/leaonline/.github/tree/master/assets/images/app-maths.png)           |
+| ![screenshot app language](https://github.com/leaonline/.github/tree/master/assets/images/app-lang.png)     | ![screenshot app complete](https://github.com/leaonline/.github/tree/master/assets/images/app-complete.png) | ![screenshot app trophies](https://github.com/leaonline/.github/tree/master/assets/images/app-trophy.png)       |
 
 ### [otu.lea - web-based diagnostics app](https://github.com/leaonline/leaonline-otulea)
 
